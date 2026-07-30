@@ -24,6 +24,9 @@ Im laufe der Zeit sind einige Objekte entstanden. Hier eine entsprechende Liste 
 |[Pfeife](#pfeife)| [YFU-Pfeife.3mf](YFU-Pfeife.3mf) |
 |[Einkaufswagenlöser](#einkaufswagenlöser)| [YFU-Einkaufswagenlöser.3mf](YFU-Einkaufswagenlöser.3mf) |
 |[Schmick-Spiegel](#schmick-spiegel)| [YFU-SpiegelDose.3mf](YFU-SpiegelDose.3mf) |
+|[Groser Bausetein](#groser-bausetein)| [Duplo-Stein.3mf](Duplo-Stein.3mf) |
+|[Untersetzer](#untersetzer)| [Untersetzer.3mf](Untersetzer.3mf),[Schriftzug.3mf](Schriftzug.3mf) |
+
 
 
 ## YFU-Sofa
@@ -66,9 +69,11 @@ Der Runde Flaschenöffner besteht aus einem Gedrucktem Körper und aus einer Fla
 <img src="..\image\FlaschnoeffnerRund.jpg" style="height:300px;">
 
 Leider sind die bei dem Einsatz mitgelieferten Schrauben zu lang so das ich andere Schrauben bestellen musste.
-Holz Schrauben https://www.amazon.de/dp/B0BMQG97MQ?th=1
-Gewinde Schrauben https://www.amazon.de/dp/B01D4R5A1E
-Gewindeeinsätze https://www.amazon.de/dp/B0FT1STKDD?th=1 
+|Bezeichnung|Link|
+| :--- | :---: |
+|Holz Schrauben| https://www.amazon.de/dp/B0BMQG97MQ?th=1 |
+|Gewinde Schrauben| https://www.amazon.de/dp/B01D4R5A1E |
+|Gewindeeinsätze| https://www.amazon.de/dp/B0FT1STKDD?th=1 |
 
 ## Pillendose
 Ich habe im laufe der Zeit verschiedene Pillendosen gedruckt. Einige eigene Versionen haben sich im Alltag nicht bewährt. Das aktuelle Design scheint aber recht brauchbar zu sein. Es geht nicht von alleine in der Tasche auf. Lässt sich aber einfach genug öffnen. 
@@ -102,12 +107,18 @@ Die Einkaufswagenlöser sind ebenfalls gut dafür geeignet Filament-Reste zu nut
 Sie brauche ~1,9g Filament was ~65 cm entspricht. Gerade wenn ich das Filament gewechselt habe drucke ich meistens erst einen Einkaufswagenlöser, auch um zu prüfen ob alles passt.
 
 ## Schmick-Spiegel
-Der Schminkspiegel
+Der Schminkspiegel kann ein praktisches Gadget sein. Er wird in eins gedrukt. Ich habe den durchmesser so gewählt das noch ein Wattepad mit hinein passt. 
 
 <img src="..\image\schmick-spiegel.jpg" style="height:300px;">
 
+Die Acryl Spiegel lassen sich einkleben und haben einen Durchmesser von 50mm. Eine Quelle ist dabei hier https://www.amazon.de/dp/B0DMS92CSN
 
 ## Groser Bausetein
 Der Baustein ist kompatibel mit Duplo-Steinen der firma Lego 
 
 <img src="..\image\duploSteine.jpg" style="height:200px;">
+
+## Untersetzer
+Der Untersetzer besteht aus zwei Teilen die nach dem Druck zusamengeklebt werden
+
+<img src="..\image\untersetzer-teile.jpg" style="height:200px;">
