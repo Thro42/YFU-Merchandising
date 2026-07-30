@@ -13,16 +13,22 @@ Im laufe der Zeit sind einige Objekte entstanden. Hier eine entsprechende Liste 
 
 |Objekt|Dateien|
 | :--- | :---: |
-|[YFU-Sofa](#yfu-sofa)| [YFU-Coutch-BigLogo-Hol.3mf](..\3d-print\YFU-Coutch-BigLogo-Hol.3mf) |
-|[Logo Lampe](#logo-lampe)| [YFU-Logo-Lampe.3mf](..\3d-print\YFU-Logo-Lampe.3mf) |
-|[Klap Hany-Ständer](#klap-hany-ständer)| [YFU-Klap-Handy-Ständer.3mf](..\3d-print\YFU-Klap-Handy-Ständer.3mf) |
-|[Falt Hany-Ständer](#falt-hany-ständer)| [Handy-Ständer-YFU.3mf](..\3d-print\Handy-Ständer-YFU.3mf) |
-|[Flaschenöffner](#flaschenöffner)| [FlaschenöffnerNoInlet.3mf](..\3d-print\FlaschenöffnerNoInlet.3mf) |
-|[Pillendose](#pillendose)| [Pillendosen-Logo.3mf](..\3d-print\Pillendosen-Logo.3mf) |
+|[YFU-Sofa](#yfu-sofa)| [YFU-Coutch-BigLogo-Hol.3mf](YFU-Coutch-BigLogo-Hol.3mf) |
+|[Logo Lampe](#logo-lampe)| [YFU-Logo-Lampe.3mf](YFU-Logo-Lampe.3mf) |
+|[Klap Hany-Ständer](#klap-hany-ständer)| [YFU-Klap-Handy-Ständer.3mf](YFU-Klap-Handy-Ständer.3mf) |
+|[Falt Hany-Ständer](#falt-hany-ständer)| [Handy-Ständer-YFU.3mf](Handy-Ständer-YFU.3mf) |
+|[Flaschenöffner](#flaschenöffner)| [FlaschenöffnerNoInlet.3mf](FlaschenöffnerNoInlet.3mf) |
+|[Pillendose](#pillendose)| [Pillendosen-Logo.3mf](Pillendosen-Logo.3mf) |
+|[Dosendeckel](#dosendeckel)| [YFU-Dosendeckel.3mf](YFU-Dosendeckel.3mf) |
+|[Lesezeichen](#lesezeichen)| [YFU-Lesezeichen.3mf](YFU-Lesezeichen.3mf) |
+|[Pfeife](#pfeife)| [YFU-Pfeife.3mf](YFU-Pfeife.3mf) |
+|[Einkaufswagenlöser](#einkaufswagenlöser)| [YFU-Einkaufswagenlöser.3mf](YFU-Einkaufswagenlöser.3mf) |
+|[Schmick-Spiegel](#schmick-spiegel)| [YFU-SpiegelDose.3mf](YFU-SpiegelDose.3mf) |
 
 
 ## YFU-Sofa
 Mit dem YFU-Sofa hat meine 3D Aktivität für YFU angefangen
+
 <img src="..\image\ZweiSofas.jpg" style="height:300px;">
 
 <img src="..\image\Platzfrei_2022_23.jpg" alt="Beispiel" style="float: left; margin-right: 15px;" width="150">
@@ -94,3 +100,14 @@ Die Einkaufswagenlöser sind ebenfalls gut dafür geeignet Filament-Reste zu nut
 <img src="..\image\einkaufswagen-ofner.jpg" style="height:200px;">
 
 Sie brauche ~1,9g Filament was ~65 cm entspricht. Gerade wenn ich das Filament gewechselt habe drucke ich meistens erst einen Einkaufswagenlöser, auch um zu prüfen ob alles passt.
+
+## Schmick-Spiegel
+Der Schminkspiegel
+
+<img src="..\image\schmick-spiegel.jpg" style="height:300px;">
+
+
+## Groser Bausetein
+Der Baustein ist kompatibel mit Duplo-Steinen der firma Lego 
+
+<img src="..\image\duploSteine.jpg" style="height:200px;">
