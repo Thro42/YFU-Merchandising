@@ -41,3 +41,23 @@ https://de.aliexpress.com/item/1005006533602424.html
 wo sie für ~30cent/Stück zu bekommen sind. 
 
 <img src="..\image\ALU-Flaschenöffner.jpg" style="height:300px;">
+
+## Fächer
+
+2026 war ein heißer Sommer und da lag es nahe, diese Fächer anzuschaffen. Mann bekommt sie bei AliExpess für ~1EUR/Stück.
+https://de.aliexpress.com/item/1005008761447835.html
+<img src="..\image\faecher.jpg" style="height:300px;">
+
+
+## Schiefer-Untersetzer
+
+Die Schiefer-Untersetzer sind zwar nicht in Royal Purple aber machen trotzdem was her. Ich habe sie fü ~1,5EUR bei Amazon gefunden. https://www.amazon.de/dp/B0943ZN7SN?th=1 . Aber vileicht findet man sie auch noch günstiger, wenn man eine grössere Stückzahl nimmt.
+<img src="..\image\SchieferUntersetzer.jpg" style="height:300px;">
+
+## Korkuntersetzer 
+
+Auch die Korkuntersetzer sind nicht farbig, aber sie sind Preiswert (~0.34Cent) und leicht herzustellen.
+
+<img src="..\image\KorkUntersetzer.jpg" style="height:300px;">
+
+Ich Laser sie in der Regel von beiden Seiten, wobei man nicht beide Seiten gleich machen muss. Ich habe meine von https://www.amazon.de/dp/B0F12G36B5?th=1
