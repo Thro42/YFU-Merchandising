@@ -136,3 +136,9 @@ Der Baustein ist kompatibel mit Duplo-Steinen der firma Lego
 Der Untersetzer besteht aus zwei Teilen die nach dem Druck zusamengeklebt werden
 
 <img src="..\image\untersetzer-teile.jpg" style="height:200px;">
+
+## Kofferanhänger
+
+Der Kofferanhänger passt zu YFU, schon weil die Gastkinder reisen müssen. Sicherlich könne man hier verschidene Call-Outs darauf bringen.
+
+<img src="..\image\Kofferanhaenger.jpg" style="height:200px;">
